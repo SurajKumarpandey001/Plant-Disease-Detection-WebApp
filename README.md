@@ -64,12 +64,13 @@ pip freeze > requirements.txt
 
 
 🙌 Credits
-Developed by Ch Atul Kumar Prusty
+Developed by Suraj Kumar
 Feel free to use, modify, and share!
 
 📬 Contact
-Linkedin: https://www.linkedin.com/in/chatulkumarprusty/
-Email: chatulprusty@gmail.com
+Linkedin:https://www.linkedin.com/in/suraj-kumar-0136522a6/
+Email: surajkumarpandey.ds@gmail.com
+
 
 
 ---
