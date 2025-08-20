@@ -30,7 +30,7 @@ C:\Users\DELL\Downloads\valid
 ## 🔧 Setup Instructions
 
 1. **Clone the repository:**
- git clone https://github.com/ChAtulKumarPrusty/Plant-Disease-Detection-WebApp.git
+ git clone https://github.com/SurajKumarpandey001/Plant-Disease-Detection-WebApp.git
  cd plant-disease-detector
 
 Create a virtual environment (optional but recommended):
